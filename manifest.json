@@ -1,0 +1,121 @@
+{
+  "book": "把想做的事做下去",
+  "version": "0.1.0",
+  "files": [
+    {
+      "path": "BOOK.md",
+      "bytes": 78302,
+      "sha256": "5b591319dcbf0227fd23819343b194fd748d0ddabd6824d504e8291e8c164482"
+    },
+    {
+      "path": "CONTENT-LICENSE.md",
+      "bytes": 2673,
+      "sha256": "c77160075cfb29c4b5bbb76529332ba6dfa88b4ebfe0b11eb8f2d5cde2ae3ca7"
+    },
+    {
+      "path": "README.en.md",
+      "bytes": 1968,
+      "sha256": "3dd712fef85fdee463af15cbae2b37a09036e39e0653248fdbbde6ca703b2d48"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1644,
+      "sha256": "5933cb0c67ffcec8f66c33078b0f1a2169c4e6f3187ae8445569f650edf3521a"
+    },
+    {
+      "path": "TOC.md",
+      "bytes": 1356,
+      "sha256": "91161ed954b1155798ed0bb2a8d815e8028dbdce9d793171a75c5518cfdaf670"
+    },
+    {
+      "path": "book.json",
+      "bytes": 3494,
+      "sha256": "b60c557f21715b54e383b0b7d8267e8180ebe6953d5d1a1108d3d52edb599df9"
+    },
+    {
+      "path": "edition.json",
+      "bytes": 389,
+      "sha256": "6e563b626b3940935cb967d9a195260e948acbc6317b3e112125579762892a48"
+    },
+    {
+      "path": "manuscript/zh-CN/back-matter/sources.md",
+      "bytes": 4469,
+      "sha256": "78b639ac615748f1068831ec0e2966b05d8beb2eb286a950ff05a85084c790b8"
+    },
+    {
+      "path": "manuscript/zh-CN/chapters/chapter-01.md",
+      "bytes": 4736,
+      "sha256": "d8d30d54bf61222bc8fb6f5b73fb6605598bebe0069535756fa86e0be1d06e6a"
+    },
+    {
+      "path": "manuscript/zh-CN/chapters/chapter-02.md",
+      "bytes": 5818,
+      "sha256": "85cb5acbe4cdf2aa701c6bfe5fb89ba59ddb9987fb2e2f53acc250e05a896a4e"
+    },
+    {
+      "path": "manuscript/zh-CN/chapters/chapter-03.md",
+      "bytes": 4538,
+      "sha256": "b72dd9074bc04967d63c71d4fe9f9d3bf24c3fc3f3647c1575e4e1cbb88d0afe"
+    },
+    {
+      "path": "manuscript/zh-CN/chapters/chapter-04.md",
+      "bytes": 4020,
+      "sha256": "ad730f4e81946f334dca94cf5efed64d5d88154166d146a4beb0fd34506a78a2"
+    },
+    {
+      "path": "manuscript/zh-CN/chapters/chapter-05.md",
+      "bytes": 5361,
+      "sha256": "8b2317f509a1aa0b70616b2281fc2f875eb79bff5f3a9ad72c4f1c18248d2b52"
+    },
+    {
+      "path": "manuscript/zh-CN/chapters/chapter-06.md",
+      "bytes": 5052,
+      "sha256": "01e4ba275042604915963e0ec3236a5ac6dbd1f9a7ab356776d68b05ddf8b06b"
+    },
+    {
+      "path": "manuscript/zh-CN/chapters/chapter-07.md",
+      "bytes": 4323,
+      "sha256": "541d7d8f90ba61873dc950b844365a926282b9e40a04e004ae3bdde031a6a0a9"
+    },
+    {
+      "path": "manuscript/zh-CN/chapters/chapter-08.md",
+      "bytes": 5190,
+      "sha256": "08e9e6a99c8ea3a3144977ad5d09cc7a74adaf6aafe2067bd8882d745f4f90f4"
+    },
+    {
+      "path": "manuscript/zh-CN/chapters/chapter-09.md",
+      "bytes": 3998,
+      "sha256": "e65823bc712659a369bab13d029133b82ac56c1b26a95b0af2a13696d0145e25"
+    },
+    {
+      "path": "manuscript/zh-CN/chapters/chapter-10.md",
+      "bytes": 5423,
+      "sha256": "eb451b1476b748c6ea9fe741bcab96742746a84e0d5de018389d7f6525a73bf3"
+    },
+    {
+      "path": "manuscript/zh-CN/chapters/chapter-11.md",
+      "bytes": 5091,
+      "sha256": "d2be09535edf836a4c972c6d23a042075f52c3e8b20e33241a5aae4206f15a1b"
+    },
+    {
+      "path": "manuscript/zh-CN/chapters/chapter-12.md",
+      "bytes": 4005,
+      "sha256": "177001115b8f0206da17273d1f3d6e66fc4bec19a0a2bc6315f8533a972bdc63"
+    },
+    {
+      "path": "manuscript/zh-CN/chapters/chapter-13.md",
+      "bytes": 5337,
+      "sha256": "52987b357b60065ca210c1c7b2ce873260145ee7dd05db04a4f640cefe9fc2ff"
+    },
+    {
+      "path": "manuscript/zh-CN/chapters/chapter-14.md",
+      "bytes": 5625,
+      "sha256": "dc895aafd1ed927f70b3df3d0c97507f3639282200537897b1a96b0e42683bd8"
+    },
+    {
+      "path": "manuscript/zh-CN/front-matter/preface.md",
+      "bytes": 2412,
+      "sha256": "71f4366de343e8371da59e7b268f700447c585947995a9a5f46ae5a5064d0334"
+    }
+  ]
+}

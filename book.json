@@ -1,0 +1,115 @@
+{
+  "title": "把想做的事做下去",
+  "subtitle": "在忙乱与中断中推进日常学习和个人项目",
+  "author": "KK",
+  "language": "zh-CN",
+  "date": "2026-11-02",
+  "edition": "中文完整首稿",
+  "version": "0.1.0",
+  "chapters": [
+    {
+      "id": 1,
+      "display_order": 1,
+      "display_title": "先看事情停在哪里",
+      "part": "第一部 为行动安排位置",
+      "file": "manuscript/zh-CN/chapters/chapter-01.md"
+    },
+    {
+      "id": 2,
+      "display_order": 2,
+      "display_title": "给想做的事一个真实位置",
+      "part": "第一部 为行动安排位置",
+      "file": "manuscript/zh-CN/chapters/chapter-02.md"
+    },
+    {
+      "id": 3,
+      "display_order": 3,
+      "display_title": "把开始写到手能做的程度",
+      "part": "第一部 为行动安排位置",
+      "file": "manuscript/zh-CN/chapters/chapter-03.md"
+    },
+    {
+      "id": 4,
+      "display_order": 4,
+      "display_title": "让环境少出几道题",
+      "part": "第一部 为行动安排位置",
+      "file": "manuscript/zh-CN/chapters/chapter-04.md"
+    },
+    {
+      "id": 5,
+      "display_order": 5,
+      "display_title": "按今天的余力安排工作",
+      "part": "第二部 在真实的一天里推进",
+      "file": "manuscript/zh-CN/chapters/chapter-05.md"
+    },
+    {
+      "id": 6,
+      "display_order": 6,
+      "display_title": "把注意力留给眼前这一段",
+      "part": "第二部 在真实的一天里推进",
+      "file": "manuscript/zh-CN/chapters/chapter-06.md"
+    },
+    {
+      "id": 7,
+      "display_order": 7,
+      "display_title": "让学习留下可以再用的东西",
+      "part": "第二部 在真实的一天里推进",
+      "file": "manuscript/zh-CN/chapters/chapter-07.md"
+    },
+    {
+      "id": 8,
+      "display_order": 8,
+      "display_title": "看见进展而不被数字牵着走",
+      "part": "第二部 在真实的一天里推进",
+      "file": "manuscript/zh-CN/chapters/chapter-08.md"
+    },
+    {
+      "id": 9,
+      "display_order": 9,
+      "display_title": "在新鲜感过去以后继续",
+      "part": "第二部 在真实的一天里推进",
+      "file": "manuscript/zh-CN/chapters/chapter-09.md"
+    },
+    {
+      "id": 10,
+      "display_order": 10,
+      "display_title": "中断以后从哪里回来",
+      "part": "第三部 中断 调整与完成",
+      "file": "manuscript/zh-CN/chapters/chapter-10.md"
+    },
+    {
+      "id": 11,
+      "display_order": 11,
+      "display_title": "大项目要有能够交付的小部分",
+      "part": "第三部 中断 调整与完成",
+      "file": "manuscript/zh-CN/chapters/chapter-11.md"
+    },
+    {
+      "id": 12,
+      "display_order": 12,
+      "display_title": "让支持有用而不变成监督",
+      "part": "第三部 中断 调整与完成",
+      "file": "manuscript/zh-CN/chapters/chapter-12.md"
+    },
+    {
+      "id": 13,
+      "display_order": 13,
+      "display_title": "有些目标需要改而不是硬撑",
+      "part": "第三部 中断 调整与完成",
+      "file": "manuscript/zh-CN/chapters/chapter-13.md"
+    },
+    {
+      "id": 14,
+      "display_order": 14,
+      "display_title": "建立一种能够回来的生活",
+      "part": "第三部 中断 调整与完成",
+      "file": "manuscript/zh-CN/chapters/chapter-14.md"
+    }
+  ],
+  "front_matter": [
+    "manuscript/zh-CN/front-matter/preface.md"
+  ],
+  "back_matter": [
+    "manuscript/zh-CN/back-matter/sources.md"
+  ]
+}

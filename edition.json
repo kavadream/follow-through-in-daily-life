@@ -1,0 +1,14 @@
+{
+  "version": "0.1.0",
+  "language": "zh-CN",
+  "status": "complete-first-draft",
+  "author": "KK",
+  "ai_assistance": "Drafting, source discovery and editing",
+  "formats": [
+    "Markdown"
+  ],
+  "fictional_examples": true,
+  "research_reading_scope": "Public abstracts and bibliographic metadata; see source notes",
+  "date": "2026-11-02",
+  "review_status": "pending-author-review"
+}
