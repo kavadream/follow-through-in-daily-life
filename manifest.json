@@ -14,13 +14,13 @@
     },
     {
       "path": "README.en.md",
-      "bytes": 2119,
-      "sha256": "78810ff689eafe75b8c29ec691a3e2d4fda2e8371880fbbe0b084b591b7e2610"
+      "bytes": 2779,
+      "sha256": "1bc0fbd5998e18bcafa43b04c8434df7ddd34c75d8721c5dcbc7a9f5ba74703b"
     },
     {
       "path": "README.md",
-      "bytes": 1763,
-      "sha256": "11b62e689b2291b0fb86d85405b7784bc36a778de0385778aa364419f42ccd93"
+      "bytes": 2283,
+      "sha256": "647fa395819eef14c96c18f3b9c5e384e7c2fdbb07e15b4f459b8622f525d920"
     },
     {
       "path": "TOC.md",
@@ -116,6 +116,101 @@
       "path": "manuscript/zh-CN/front-matter/preface.md",
       "bytes": 2412,
       "sha256": "71f4366de343e8371da59e7b268f700447c585947995a9a5f46ae5a5064d0334"
+    },
+    {
+      "path": "translations/en/COPYRIGHT.md",
+      "bytes": 1969,
+      "sha256": "6dc882314d18363d34731837fa4ef8ae8cc99949254b63cae5edc08abd57d669"
+    },
+    {
+      "path": "translations/en/README.md",
+      "bytes": 5273,
+      "sha256": "4f44087e02ea39c2ae7cb2d62749bd7b13bcc535ffd3f9022d157247e5a80a54"
+    },
+    {
+      "path": "translations/en/back-matter/sources.md",
+      "bytes": 5736,
+      "sha256": "4c135fc29387c1f12590d16c1c29062f96469dcc23e8f75e2f9e4f3bee6f520e"
+    },
+    {
+      "path": "translations/en/book.md",
+      "bytes": 96433,
+      "sha256": "7839df5c0aecc368e5158d055f9197f1c6882c57f7a34ae2a433b8565000955f"
+    },
+    {
+      "path": "translations/en/chapters/chapter-01.md",
+      "bytes": 6067,
+      "sha256": "945cca9aa55cffb114aef1d9ffd28b23bb536c7218ef50ce1e73422710eca0c8"
+    },
+    {
+      "path": "translations/en/chapters/chapter-02.md",
+      "bytes": 6978,
+      "sha256": "cde01533c2d7e62273750d37f7818df128b2fed5f2b7b6a0c7106dc4e33c9958"
+    },
+    {
+      "path": "translations/en/chapters/chapter-03.md",
+      "bytes": 5470,
+      "sha256": "e268616a802dbac0f64ee9407aa5aa32131d1de5f4836926417cf35329711f3e"
+    },
+    {
+      "path": "translations/en/chapters/chapter-04.md",
+      "bytes": 4999,
+      "sha256": "000b00dd66e63922140005b7e38fdd15f2f341e7b28849b9d980132911d46db7"
+    },
+    {
+      "path": "translations/en/chapters/chapter-05.md",
+      "bytes": 6488,
+      "sha256": "a1a927cf2d9e0fc3e4c930bb4e2043ec8520e7ce512709adcdc83dc9a757d494"
+    },
+    {
+      "path": "translations/en/chapters/chapter-06.md",
+      "bytes": 6017,
+      "sha256": "0cbd2ca025ad89b1bc7235bdb6cd6ceda3f901ea10ffc9964bac471cfb641a17"
+    },
+    {
+      "path": "translations/en/chapters/chapter-07.md",
+      "bytes": 5195,
+      "sha256": "445b52555e21256957c4b2176b95b049c790d090c5b10e336a2eb1a5e0a7a6ec"
+    },
+    {
+      "path": "translations/en/chapters/chapter-08.md",
+      "bytes": 6232,
+      "sha256": "0da77d5effc79a8fbd9f574004c8c4fcc5a2395e67948e4b22e646b575cc0009"
+    },
+    {
+      "path": "translations/en/chapters/chapter-09.md",
+      "bytes": 4812,
+      "sha256": "73ed6f8839159f8edc46f0431e023af606b308fb7ca6f168149cb5a3dd65b9f2"
+    },
+    {
+      "path": "translations/en/chapters/chapter-10.md",
+      "bytes": 6624,
+      "sha256": "2e3101cec1bea917d6c6bc51ce37137ca604311d47d09f33614932df196d66b8"
+    },
+    {
+      "path": "translations/en/chapters/chapter-11.md",
+      "bytes": 6098,
+      "sha256": "ea48d526c8a19034bd59cc422dcb056c85e74398bf1cdd2ab19284c79efcd863"
+    },
+    {
+      "path": "translations/en/chapters/chapter-12.md",
+      "bytes": 4967,
+      "sha256": "9add1ecd148add9bf6310fee49594b97c10a78c212867330bbc4d4efa7c08610"
+    },
+    {
+      "path": "translations/en/chapters/chapter-13.md",
+      "bytes": 6378,
+      "sha256": "507877928b03b4deb6c4a93788961b43da46d228274474cb5b03d1a75d04deb8"
+    },
+    {
+      "path": "translations/en/chapters/chapter-14.md",
+      "bytes": 6835,
+      "sha256": "5e8f53d7ac1d7204f0ff35ab2357ecd2019e33d28a8e70217585757ebb80460e"
+    },
+    {
+      "path": "translations/en/front-matter/preface.md",
+      "bytes": 3301,
+      "sha256": "37f9c86a9e2950c5120a245ca47e811ce04eb39ccfda62d0f46ef3b940e84431"
     }
   ]
 }
