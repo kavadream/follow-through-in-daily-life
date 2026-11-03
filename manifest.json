@@ -14,13 +14,13 @@
     },
     {
       "path": "README.en.md",
-      "bytes": 1968,
-      "sha256": "3dd712fef85fdee463af15cbae2b37a09036e39e0653248fdbbde6ca703b2d48"
+      "bytes": 2119,
+      "sha256": "78810ff689eafe75b8c29ec691a3e2d4fda2e8371880fbbe0b084b591b7e2610"
     },
     {
       "path": "README.md",
-      "bytes": 1644,
-      "sha256": "5933cb0c67ffcec8f66c33078b0f1a2169c4e6f3187ae8445569f650edf3521a"
+      "bytes": 1763,
+      "sha256": "11b62e689b2291b0fb86d85405b7784bc36a778de0385778aa364419f42ccd93"
     },
     {
       "path": "TOC.md",
@@ -34,8 +34,8 @@
     },
     {
       "path": "edition.json",
-      "bytes": 389,
-      "sha256": "6e563b626b3940935cb967d9a195260e948acbc6317b3e112125579762892a48"
+      "bytes": 394,
+      "sha256": "f033f33eac45e202d9fd079d61d1fa7131f687b8a43c10b344a8df89ed104e77"
     },
     {
       "path": "manuscript/zh-CN/back-matter/sources.md",

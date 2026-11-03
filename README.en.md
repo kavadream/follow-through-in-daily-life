@@ -1,6 +1,8 @@
 # Follow Through in Daily Life
 
-**By KK · Complete Chinese first draft · draft v0.1 · Awaiting author review**
+**By KK · Complete Chinese first draft · draft v0.1 · Content accepted by author**
+
+The manuscript and rights notice retain their original first-draft wording. The current content-review status is stated here and in the metadata.
 
 A Chinese-language book about making room for reading, learning, organizing, and personal projects when daily life is busy, tiring, or interrupted. Its fourteen chapters cover practical starting points, available time, materials, attention, learning, feedback, recovery, project completion, and changing goals.
 

@@ -1,6 +1,8 @@
 # 把想做的事做下去
 
-**KK 著 · AI辅助完整中文首稿 · draft v0.1 · 待作者审阅**
+**KK 著 · AI辅助完整中文首稿 · draft v0.1 · 内容已获作者验收**
+
+正文和版权文件保留首稿时的原有文字；当前内容验收状态以本页和元数据为准。
 
 **[完整中文初稿阅读](BOOK.md)** · [分章目录](TOC.md) · [提交反馈](https://github.com/kavadream/follow-through-in-daily-life/issues)
 
